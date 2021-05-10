@@ -1,0 +1,35 @@
+table{
+    font-family: sans-serif;
+    border-collapse: collapse;
+    border-color:darkseagreen;
+    border-width   : 1px;
+    border-style   : solid;
+
+}
+
+
+th{
+    font-weight: 700;
+    background-color: #80ffbd;
+    color: #ffffff;
+    
+    
+}
+H3{font-weight: 700;
+    background-color: #80ffbd;
+    color: #ffffff;
+}
+a{
+      font-family     : Helvetica, sans-serif;
+      text-decoration : none;
+      background-color: #80ffbd;
+      padding         : 5px;
+    color: #ffffff;
+    border-color: black
+    
+}
+a:hover{
+      background-color: aqua;
+      color           : #ffffff;
+}
+
